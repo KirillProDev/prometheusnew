@@ -1,5 +1,3 @@
 # Prometheus and Grafana
-Scripts for Prometheus Monitoring System
+Scripts for Prometheus Monitoring System for install on different OS
 
-
-Copyleft(c) by Denis Astahov.
